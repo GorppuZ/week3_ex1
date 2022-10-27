@@ -1,3 +1,3 @@
 def person():
-    print("Person")
+    print("Person and persons")
     return
